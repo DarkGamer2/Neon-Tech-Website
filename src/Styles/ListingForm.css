@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima&family=The+Nautigal:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&display=swap');
+
+
+.create-listing-form form{
+  max-width: 400px;
+    margin: 0 auto;
+    
+  }
+  .create-listing-form input
+  {
+    display: block;
+  margin: 0 auto;
+  width: 30%;
+  padding:8px;
+  }
+  .create-listing-form label{
+    display: block;
+    margin-top: 24px;
+    text-align: center;
+    padding:5px;
+  }
+
+  h1{
+    background-color:#fcca7e;
+    color:white;
+}
+
+.create-listing-form{
+  background-color:#fcca7e;
+}
+
+.btn button{
+  padding:10px;
+}
+
